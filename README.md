@@ -7,7 +7,10 @@ React / Webpack / Redux / PostCss / Mocha basic setup for starting new projects 
 
 ## Install
 
+After cloning the repo:
+
 ```npm i```
+
 ```npm start```
 
 open http://localhost:8080

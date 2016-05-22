@@ -1,2 +1,6 @@
 # coconut
-React / Webpack / Redux / Redux-saga / PostCss / Mocha basic setup for starting new projects faster 
+React / Webpack / Redux / PostCss / Mocha basic setup for starting new projects faster 
+
+* redux-saga as a middleware
+* React 15.x stateless components
+* Rebass UI stateless components

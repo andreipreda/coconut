@@ -4,3 +4,10 @@ React / Webpack / Redux / PostCss / Mocha basic setup for starting new projects 
 * redux-saga as a middleware
 * React 15.x stateless components
 * Rebass UI stateless components
+
+## Install
+
+```npm i```
+```npm start```
+
+open http://localhost:8080

@@ -1,4 +1,7 @@
 # coconut
+
+![dependencies](https://david-dm.org/andreipreda/coconut.svg)
+
 React / Webpack / Redux / PostCss / Mocha basic setup for starting new projects faster 
 
 * redux-saga as a middleware

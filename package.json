@@ -15,7 +15,17 @@
     "start": "node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
   "homepage": "https://github.com/andreipreda/coconut",
-  "keywords": ["react", "redux", "webpack", "hot module reload", "setup", "basic", "saga", "stateless", "rebass"],
+  "keywords": [
+    "react",
+    "redux",
+    "webpack",
+    "hot module reload",
+    "setup",
+    "basic",
+    "saga",
+    "stateless",
+    "rebass"
+  ],
   "author": "Andrei Preda <andrei.preda@live.com>",
   "license": "MIT",
   "devDependencies": {
@@ -25,7 +35,7 @@
     "babel-preset-react-hmre": "^1.1.1",
     "babel-preset-stage-0": "^6.5.0",
     "css-loader": "^0.23.1",
-    "eslint": "^2.10.2",
+    "eslint": "^2.11.1",
     "eslint-config-airbnb": "^9.0.1",
     "eslint-plugin-import": "^1.8.0",
     "eslint-plugin-jsx-a11y": "^1.2.2",

@@ -1,5 +1,6 @@
 import React from 'react';
 import { Toolbar, NavItem } from 'rebass';
+import { DateChooser } from './../../interval';
 
 export const Header = () =>
   <Toolbar>
@@ -7,3 +8,9 @@ export const Header = () =>
       Coconut
     </NavItem>
   </Toolbar>;
+
+export const Wrap = () =>
+  <div>
+    <Header />
+    <DateChooser />
+  </div>;

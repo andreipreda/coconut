@@ -2,9 +2,8 @@ import 'babel-polyfill';
 import 'normalize.css';
 import React from 'react';
 import ReactDOM from 'react-dom';
-
-import { Header } from './header/toolbar';
+import { Root } from './redux/root';
 
 const target = document.getElementById('app');
 
-ReactDOM.render(<Header />, target);
+ReactDOM.render(<Root />, target);

@@ -7,11 +7,12 @@ React / Redux / Webpack / PostCSS / AVA / Flow basic setup & architecture for st
 Goal of this repository it's to provide both a project starter and an example of architecting a modern ES6 web application
 
 * React 15.x stateless components
+* webpack & dev-server basic setup with Hot module loader for react
 * react-router
 * redux-saga as a middleware
 * AVA test runner
-* Rebass UI stateless components
-* Organizing code by features & using redux ducks
+* rebass UI stateless components
+* organized code by features & using redux ducks
 
 
 **Install**

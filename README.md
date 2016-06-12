@@ -23,12 +23,13 @@ After cloning the repo:
 
 ```npm start```
 
+open [http://localhost:8080](http://localhost:8080)
+
 
 **Test**
 
 ```npm test```
 
-open [http://localhost:8080](http://localhost:8080)
 
 MIT
 

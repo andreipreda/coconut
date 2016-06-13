@@ -1,6 +1,6 @@
 # coconut
 
-![dependencies](https://david-dm.org/andreipreda/coconut.svg)
+![dependencies](https://david-dm.org/andreipreda/coconut.svg) ![circleci](https://circleci.com/gh/andreipreda/coconut.png?circle-token=a4fec78314eae92b11017b5702d48425a5b32c9c)
 
 React / Redux / Webpack / PostCSS / AVA / Flow basic setup & architecture for starting new projects faster 
 

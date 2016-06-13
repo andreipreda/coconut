@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "react, redux, webpack & friends basic setup",
   "main": "index.js",
+  "engines" : { 
+    "node": ">=6.0.0",
+    "npm:": ">=3.8.5"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/andreipreda/coconut.git"

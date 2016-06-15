@@ -1,4 +1,3 @@
-import 'babel-register';
 import 'babel-polyfill';
 import test from 'ava';
 import { put } from 'redux-saga/effects';

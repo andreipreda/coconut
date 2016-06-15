@@ -27,7 +27,8 @@ module.exports = {
         exclude: /node_modules/,
         loader: 'babel-loader',
         query: {
-          presets: ['es2015', 'react', 'stage-0', 'react-hmre']
+          presets: ['es2015', 'react', 'stage-0', 'react-hmre'],
+          plugins: ['transform-runtime']
         }
       },
       {

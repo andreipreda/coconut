@@ -8,12 +8,12 @@ test('SAGA: intervalAutoRun', t => {
 
   t.deepEqual(
     gen.next().value,
-    put({ type: CHANGE_START, start: Date.now() })
+    put({ type: CHANGE_START })
   );
 
   t.deepEqual(
     gen.next().value,
-    put({ type: CHANGE_END, end: Date.now() })
+    put({ type: CHANGE_END })
   );
 
   t.is(

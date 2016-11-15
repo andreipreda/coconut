@@ -66,7 +66,7 @@
     "rebass": "^0.3.0",
     "redux": "^3.5.2",
     "redux-logger": "^2.6.1",
-    "redux-saga": "^0.11.0"
+    "redux-saga": "^0.13.0"
   },
   "ava": {
     "require": "babel-register",
